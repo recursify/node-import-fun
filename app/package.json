@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dep-a" : "../dep-a",
+    "dep-b" : "../dep-b"
+  },
+  "author": "",
+  "license": "ISC"
+}
